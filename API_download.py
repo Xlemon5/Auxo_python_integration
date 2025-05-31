@@ -3,11 +3,16 @@ import json
 import sys
 import datetime
 from sys import getdefaultencoding
+from dotenv import load_dotenv
+import os
+
 
 print(datetime.datetime.now(), " ===== Start of ", sys.argv[0], " script.")
 
 
-access_token = "d8c8ffd64019538a34c601513e921203"
+load_dotenv()  # Загружает переменные из .env
+
+access_token = os.getenv('API_KEY')
 
 export_path = "/Users/ilya/Desktop/AUXO_python_integration/"
 filename = 'weather_sample'

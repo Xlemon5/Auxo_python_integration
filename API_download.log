@@ -1,8 +1,8 @@
-=====DOWNLOAD FILE  == 2025-05-31 19:35:44 ====
-2025-05-31 19:35:44.533393  ===== Start of  ./API_download.py  script.
+=====DOWNLOAD FILE  == 2025-05-31 19:44:56 ====
+2025-05-31 19:44:56.874167  ===== Start of  ./API_download.py  script.
  ===== URL is -  https://api.openweathermap.org/data/2.5/weather?lat=33.44&lon=-94.04&appid=d8c8ffd64019538a34c601513e921203
  ===== Status is -  200
  ===== Write data into -  /Users/ilya/Desktop/AUXO_python_integration/weather_sample.json
 Data saved to weather_sample
-2025-05-31 19:35:45.300942  ===== End downloading
-=====FINISH DOWNLOAD  == 2025-05-31 19:35:45 ====
+2025-05-31 19:44:57.483027  ===== End downloading
+=====FINISH DOWNLOAD  == 2025-05-31 19:44:57 ====
