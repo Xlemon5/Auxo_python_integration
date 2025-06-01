@@ -17,7 +17,7 @@ def connect_and_insert():
  
         # Create table if it doesn't exist
         create_table_query = '''
-        CREATE TABLE IF NOT EXISTS tbl_Created_via_Python (
+        CREATE TABLE IF NOT EXISTS auxo.tbl_Created_via_Python (
             id SERIAL PRIMARY KEY,
             name VARCHAR(100),
             age INT
@@ -27,7 +27,7 @@ def connect_and_insert():
  
         # Insert data into the table
         insert_query = '''
-        INSERT INTO tbl_Created_via_Python (name, age) VALUES (%s, %s);
+        INSERT INTO auxo.tbl_Created_via_Python (name, age) VALUES (%s, %s);
         '''
         data_to_insert = ('John Doe', 30)  # Example data
         cursor.execute(insert_query, data_to_insert)

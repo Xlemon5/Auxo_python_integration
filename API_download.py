@@ -14,7 +14,7 @@ load_dotenv()  # Загружает переменные из .env
 
 access_token = os.getenv('API_KEY')
 
-export_path = "/Users/ilya/Desktop/AUXO_python_integration/"
+export_path = "/Users/ilya/Desktop/AUXO_python_integration/data/"
 filename = 'weather_sample'
 
 lat = '33.44'

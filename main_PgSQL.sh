@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR=$(dirname "$0")
-LOG_FILE="$SCRIPT_DIR/PgSQL_connect.log"
+LOG_FILE="$SCRIPT_DIR/logs/PgSQL_connect.log"
 
 {
     echo "=====DOWNLOAD SCRIPT $1 == $(date '+%Y-%m-%d %H:%M:%S') ===="

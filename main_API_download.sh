@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR=$(dirname "$0")
-LOG_FILE="$SCRIPT_DIR/API_download.log"
+LOG_FILE="$SCRIPT_DIR/logs/API_download.log"
 
 {
     echo "=====DOWNLOAD FILE $1 == $(date '+%Y-%m-%d %H:%M:%S') ===="

@@ -2,3 +2,4 @@ requests
 psycopg2
 pandas
 oracledb
+dotenv
