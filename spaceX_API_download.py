@@ -76,6 +76,22 @@ load_data_to_DB(
     columns=("name", "agency", "image", "wikipedia", "launches", "status", "id")
 )
 
+load_data_to_DB(
+    endpoint="cores",
+    table="spaceX.cores",
+    columns=(
+        "block", 
+        "reuse_count", 
+        "rtls_attempts", 
+        "rtls_landings", 
+        "asds_attempts", 
+        "asds_landings", 
+        "last_update", 
+        "launches", 
+        "serial",
+        "status",
+        "id")
+)
 
 
 
