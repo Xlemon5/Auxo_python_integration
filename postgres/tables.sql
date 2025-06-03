@@ -21,5 +21,5 @@ CREATE TABLE IF NOT EXISTS spaceX.cores (
 	launches text[] NULL,
 	serial text NULL,
 	status text NULL,
-	id text NULL PRIMARY KEY
+	id text PRIMARY KEY
 );

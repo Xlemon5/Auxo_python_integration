@@ -42,13 +42,13 @@ def check_DB_connection():
 
 def load_data_to_DB(endpoint, table, columns):
     """
-        Load data to db
+        Загрузка данных в бд
         endpoint: str, for example - crew
         table: str, for example - spaceX.crew
         columns: tuple/list, for example: (name, agency, etc.)
     
     """
-    json_data = get_data_from_url(f"{K.host}/{endpoint}") # it's dictionary now
+    json_data = get_data_from_url(f"{K.host}/{endpoint}") 
     
     conn = psycopg2.connect(**db_params)
     cur = conn.cursor()
@@ -64,16 +64,20 @@ def load_data_to_DB(endpoint, table, columns):
         with conn.cursor() as cur:
             for row in json_data:
                 data_to_insert = tuple(row.get(col) for col in columns)
-                cur.execute(insert_query, data_to_insert)
-        conn.commit()
+                cur.execute(insert_query, data_to_insert)        
     print(f"Загружено {len(json_data)} записей в {table}")
-    conn.commit()
 
 check_DB_connection()
 load_data_to_DB(
     endpoint="crew",
     table="spaceX.crew",
-    columns=("name", "agency", "image", "wikipedia", "launches", "status", "id")
+    columns=("name", 
+             "agency", 
+             "image", 
+             "wikipedia", 
+             "launches", 
+             "status", 
+             "id")
 )
 
 load_data_to_DB(
@@ -92,8 +96,3 @@ load_data_to_DB(
         "status",
         "id")
 )
-
-
-
-
-
