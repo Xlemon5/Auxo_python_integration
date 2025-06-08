@@ -1,0 +1,84 @@
+block,reuse_count,rtls_attempts,rtls_landings,asds_attempts,asds_landings,last_update,launches,serial,status,id
+,0.0,0.0,0.0,0.0,0.0,Engine failure at T+33 seconds resulted in loss of vehicle,['5eb87cd9ffd86e000604b32a'],Merlin1A,lost,5e9e289df35918033d3b2623
+,0.0,0.0,0.0,0.0,0.0,"Successful first-stage burn and transition to second stage, maximal altitude 289 km. Harmonic oscillation at T+5 minutes Premature engine shutdown at T+7 min 30 s. Failed to reach orbit.",['5eb87cdaffd86e000604b32b'],Merlin2A,lost,5e9e289ef35918416a3b2624
+,0.0,0.0,0.0,0.0,0.0,Residual stage-1 thrust led to collision between stage 1 and stage 2.,['5eb87cdbffd86e000604b32c'],Merlin1C,lost,5e9e289ef3591814873b2625
+,0.0,0.0,0.0,0.0,0.0,"Initially scheduled for 23–25 Sep, carried dummy payload – mass simulator, 165 kg (originally intended to be RazakSAT.",['5eb87cdbffd86e000604b32d'],Merlin2C,lost,5e9e289ef3591855dc3b2626
+,0.0,0.0,0.0,0.0,0.0,,['5eb87cdcffd86e000604b32e'],Merlin3C,lost,5e9e289ef359184f103b2627
+1.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87cddffd86e000604b32f'],B0003,expended,5e9e289ef359185f2b3b2628
+1.0,0.0,0.0,0.0,0.0,0.0,First flight of Dragon,['5eb87cdeffd86e000604b330'],B0004,lost,5e9e289ef35918187c3b2629
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87cdfffd86e000604b331'],B0005,lost,5e9e289ef35918f39c3b262a
+1.0,0.0,0.0,0.0,0.0,0.0,Suffered engine out at T+1:19 but primary mission successful,['5eb87ce0ffd86e000604b332'],B0006,lost,5e9e289ff3591821a73b262b
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ce1ffd86e000604b333'],B0007,lost,5e9e289ff3591884e03b262c
+1.0,0.0,0.0,0.0,0.0,0.0,"First flight of Falcon 9 v1.1 upgrade, first Spacex flight from Vandenberg",['5eb87ce1ffd86e000604b334'],B1003,lost,5e9e289ff359180ae23b262d
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ce2ffd86e000604b335'],B1004,lost,5e9e289ff35918862c3b262e
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ce3ffd86e000604b336'],B1005,lost,5e9e289ff3591878603b262f
+1.0,0.0,0.0,0.0,0.0,0.0,Broke up after sucessful water landing,['5eb87ce4ffd86e000604b337'],B1006,lost,5e9e289ff3591829343b2630
+1.0,0.0,0.0,0.0,0.0,0.0,Broke up after sucessful water landing,['5eb87ce4ffd86e000604b338'],B1007,lost,5e9e28a0f3591870a63b2631
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ce5ffd86e000604b339'],B1008,lost,5e9e28a0f359186e2e3b2632
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ce6ffd86e000604b33a'],B1011,lost,5e9e28a0f35918b1bc3b2633
+1.0,0.0,0.0,0.0,0.0,0.0,Broke up after sucessful water landing,['5eb87ce7ffd86e000604b33b'],B1010,lost,5e9e28a0f359184a683b2634
+1.0,0.0,0.0,0.0,0.0,0.0,"Destroyed on impact with droneship, grid fin hydraulic fluid depleted",['5eb87ce8ffd86e000604b33c'],B1012,lost,5e9e28a0f359187a3c3b2635
+1.0,0.0,0.0,0.0,0.0,0.0,Broke up after sucessful water landing,['5eb87ceaffd86e000604b33d'],B1013,lost,5e9e28a0f3591885be3b2636
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87ceaffd86e000604b33e'],B1014,lost,5e9e28a0f35918c0893b2637
+1.0,0.0,0.0,0.0,0.0,0.0,Destroyed on impact with droneship due to excess lateral velocity - throttle stiction,['5eb87cecffd86e000604b33f'],B1015,lost,5e9e28a1f359186d533b2638
+1.0,0.0,0.0,0.0,0.0,0.0,,['5eb87cedffd86e000604b340'],B1016,lost,5e9e28a1f35918233f3b2639
+1.0,0.0,0.0,0.0,0.0,0.0,RUD at T + 139s - second stage overpressure event due to defective COPV strut heim joint,['5eb87ceeffd86e000604b341'],B1018,lost,5e9e28a1f35918683c3b263a
+1.0,0.0,1.0,1.0,0.0,0.0,Retired; permanently displayed at Hawthorne headquarters. ,['5eb87cefffd86e000604b342'],B1019,inactive,5e9e28a1f3591867753b263b
+1.0,0.0,0.0,0.0,0.0,0.0,Destroyed after drone ship landing due to landing leg failure,['5eb87cf0ffd86e000604b343'],B1017,lost,5e9e28a1f3591842fa3b263c
+1.0,0.0,0.0,0.0,0.0,0.0,"Destroyed on Impact with DroneShip (OCISLY) - Excess Velocity, Possible Fuel Exhaustion",['5eb87cf2ffd86e000604b344'],B1020,lost,5e9e28a1f359188def3b263d
+2.0,1.0,0.0,0.0,2.0,2.0,Retired; stored in Hangar E at CCAFS until put on permanent display ,"['5eb87cf3ffd86e000604b345', '5eb87d00ffd86e000604b34f']",B1021,inactive,5e9e28a2f359182d0b3b263e
+2.0,0.0,0.0,0.0,1.0,1.0,Removed from active fleet for Δ Qualification Testing. Retired after eight to ten test cycles.  Currently partially disassembled at McGregor.,['5eb87cf5ffd86e000604b346'],B1022,inactive,5e9e28a2f35918077b3b263f
+2.0,1.0,1.0,1.0,1.0,1.0,*At LZ1 as 2018/02/06 ,"['5eb87cf6ffd86e000604b347', '5eb87d13ffd86e000604b360']",B1023,inactive,5e9e28a2f3591845c73b2640
+2.0,0.0,0.0,0.0,0.0,0.0,RUD on deck of droneship (OCISLY),['5eb87cf8ffd86e000604b348'],B1024,lost,5e9e28a2f359184f403b2641
+2.0,1.0,2.0,2.0,0.0,0.0,*At LZ2 as 2018/02/06 ,"['5eb87cf9ffd86e000604b349', '5eb87d13ffd86e000604b360']",B1025,inactive,5e9e28a2f359187f273b2642
+2.0,0.0,0.0,0.0,1.0,1.0,Permanently scrapped.  ,['5eb87cfaffd86e000604b34a'],B1026,inactive,5e9e28a2f35918b8243b2643
+3.0,0.0,0.0,0.0,0.0,0.0,---,['5eb87cfbffd86e000604b34b'],B1028,lost,5e9e28a2f359187ee83b2644
+3.0,1.0,0.0,0.0,2.0,2.0,Will be given to KSC Visitors Center. ,"['5eb87cfdffd86e000604b34c', '5eb87d04ffd86e000604b353']",B1029,inactive,5e9e28a3f359189e3a3b2645
+3.0,1.0,1.0,1.0,1.0,1.0,"Stored outside at McGregor, partially disassembled (missing engines). ","['5eb87cfeffd86e000604b34d', '5eb87d0cffd86e000604b35a']",B1031,inactive,5e9e28a3f3591829dc3b2646
+3.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87cfeffd86e000604b34e'],B1030,expended,5e9e28a3f3591878473b2647
+3.0,1.0,1.0,1.0,0.0,0.0,"Survived water landing, SpaceX couldn't tug it back to port, so they hired a company to destroy it.  ","['5eb87d01ffd86e000604b350', '5eb87d11ffd86e000604b35f']",B1032,lost,5e9e28a3f3591811f83b2648
+3.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87d01ffd86e000604b351'],B1034,expended,5e9e28a3f359186f3f3b2649
+3.0,1.0,2.0,2.0,0.0,0.0,Retired; permanently displayed at Space Center Houston. ,"['5eb87d03ffd86e000604b352', '5eb87d0effd86e000604b35c']",B1035,inactive,5e9e28a3f3591856803b264a
+3.0,1.0,0.0,0.0,1.0,1.0,Broke Up After Successful Water Landing,"['5eb87d05ffd86e000604b354', '5eb87d0fffd86e000604b35d']",B1036,lost,5e9e28a3f3591801cf3b264b
+3.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87d06ffd86e000604b355'],B1037,expended,5e9e28a4f3591850cc3b264c
+4.0,1.0,1.0,1.0,0.0,0.0,Stage Expended,"['5eb87d07ffd86e000604b356', '5eb87d16ffd86e000604b364']",B1039,expended,5e9e28a4f3591884ee3b264d
+3.0,1.0,0.0,0.0,1.0,1.0,Stage Expended,"['5eb87d08ffd86e000604b357', '5eb87d14ffd86e000604b361']",B1038,expended,5e9e28a4f359182d843b264e
+4.0,1.0,1.0,1.0,0.0,0.0,Stage Expended,"['5eb87d09ffd86e000604b358', '5eb87d1bffd86e000604b368']",B1040,expended,5e9e28a4f3591845123b264f
+4.0,1.0,0.0,0.0,1.0,1.0,Stage Expended,"['5eb87d0affd86e000604b359', '5eb87d16ffd86e000604b363']",B1041,expended,5e9e28a4f3591843103b2650
+4.0,0.0,0.0,0.0,1.0,1.0,Retired. ,['5eb87d0dffd86e000604b35b'],B1042,inactive,5e9e28a4f359185cc03b2651
+4.0,1.0,1.0,1.0,0.0,0.0,Stage Expended,"['5eb87d10ffd86e000604b35e', '5eb87d1affd86e000604b367']",B1043,expended,5e9e28a4f35918345e3b2652
+3.0,0.0,0.0,0.0,0.0,0.0,"Two of the outer engines didn't re-ignite for the landing burn, ran out of TEA/TEB igniters. ",['5eb87d13ffd86e000604b360'],B1033,lost,5e9e28a5f359187f703b2653
+4.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87d15ffd86e000604b362'],B1044,expended,5e9e28a5f359186cb73b2654
+4.0,1.0,0.0,0.0,1.0,1.0,Stage Expended,"['5eb87d18ffd86e000604b365', '5eb87d1cffd86e000604b369']",B1045,expended,5e9e28a5f35918863d3b2655
+5.0,3.0,0.0,0.0,3.0,3.0,Stage Expended,"['5eb87d19ffd86e000604b366', '5eb87d20ffd86e000604b36c', '5eb87d25ffd86e000604b370', '5eb87d3dffd86e000604b381']",B1046,expended,5e9e28a5f359182b023b2656
+5.0,2.0,0.0,0.0,2.0,2.0,Stage Expended,"['5eb87d1effd86e000604b36a', '5eb87d24ffd86e000604b36f', '5eb87d37ffd86e000604b37c']",B1047,expended,5e9e28a5f359181eed3b2657
+5.0,4.0,1.0,1.0,3.0,3.0,Landing burn not performed after premature engine shutdown during ascent,"['5eb87d1fffd86e000604b36b', '5eb87d23ffd86e000604b36e', '5eb87d2affd86e000604b374', '5eb87d39ffd86e000604b37d', '5eb87d43ffd86e000604b385']",B1048,lost,5e9e28a5f3591809c03b2658
+5.0,9.0,0.0,0.0,10.0,10.0,Stage Expended,"['5eb87d22ffd86e000604b36d', '5eb87d28ffd86e000604b373', '5eb87d30ffd86e000604b378', '5eb87d3cffd86e000604b380', '5eb87d45ffd86e000604b387', '5ed981d91f30554030d45c2a', '5fb95b3f3a88ae63c954603c', '5fbfecfe54ceb10a5664c80b', '605b4b7daa5433645e37d040', '60e3bf0d73359e1e20335c37']",B1049,expended,5e9e28a5f3591833b13b2659
+5.0,0.0,1.0,0.0,0.0,0.0,Towed to Port of Canaveral; cannibalized for parts to build Starhopper. ,['5eb87d26ffd86e000604b371'],B1050,inactive,5e9e28a6f359185c603b265a
+5.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,['5eb87d27ffd86e000604b372'],B1054,expended,5e9e28a6f35918513b3b265b
+5.0,12.0,1.0,1.0,12.0,12.0,Stage Expended,"['5eb87d2bffd86e000604b375', '5eb87d31ffd86e000604b379', '5eb87d3fffd86e000604b382', '5eb87d44ffd86e000604b386', '5ed9819a1f30554030d45c29', '5ef6a2bf0059c33cee4a828c', '5eb87d4bffd86e000604b38c', '5fbfecce54ceb10a5664c80a', '600f9a8d8f798e2a4d5f979e', '6079bd1c9a06446e8c61bf76', '61bba806437241381bf7061e', '6234908cf051102e1fcedac4', '62a9f0f820413d2695d88714']",B1051,expended,5e9e28a6f35918c0803b265c
+5.0,6.0,3.0,3.0,4.0,4.0,Landed on JRTI as of Sep 5 2022,"['5eb87d2dffd86e000604b376', '5eb87d35ffd86e000604b37a', '6161d32d6db1a92bfba85359', '61fc0243e0dc5662b76489ae', '62615ebc0ec008379be596fa', '62a9f86420413d2695d88719', '62f3b5330f55c50e192a4e6e']",B1052,active,5e9e28a6f359183c413b265d
+5.0,1.0,2.0,2.0,0.0,0.0,"Landed at LZ-2 as of Jun 25, 2019.","['5eb87d2dffd86e000604b376', '5eb87d35ffd86e000604b37a']",B1053,active,5e9e28a6f359188fd53b265e
+5.0,0.0,0.0,0.0,1.0,1.0,Toppled by rough seas and broken in two after safely landing aboard OCISLY,['5eb87d2dffd86e000604b376'],B1055,lost,5e9e28a6f3591897453b265f
+5.0,3.0,1.0,1.0,2.0,2.0,Missed the droneship and made successful water landing; apparently scuttled at sea afterward. ,"['5eb87d2effd86e000604b377', '5eb87d36ffd86e000604b37b', '5eb87d3bffd86e000604b37f', '5eb87d41ffd86e000604b383']",B1056,lost,5e9e28a7f3591809313b2660
+5.0,0.0,0.0,0.0,0.0,0.0,Exploded upon ocean impact a safe distance from OCISLY,['5eb87d35ffd86e000604b37a'],B1057,lost,5e9e28a7f3591878063b2661
+5.0,5.0,3.0,3.0,2.0,2.0,Exploded upon ocean impact a safe distance from OCISLY,"['5eb87d39ffd86e000604b37e', '5eb87d42ffd86e000604b384', '5eb87d46ffd86e000604b389', '5eb87d47ffd86e000604b38a', '5f8399fb818d8b59f5740d43', '600f9a5e8f798e2a4d5f979c']",B1059,lost,5e9e28a7f359187afd3b2662
+5.0,13.0,1.0,1.0,13.0,13.0,"Landed on ASOG as of Sep 11, 2022","['5eb87d46ffd86e000604b388', '5eb87d50ffd86e000604b394', '5ef6a2090059c33cee4a828b', '5eb87d4effd86e000604b391', '5fd386aa7faea57d297c86c1', '600f9a718f798e2a4d5f979d', '60428ac4c041c16716f73cd8', '605b4b95aa5433645e37d041', '618faad2563d69573ed8ca9d', '61bf3e31cd5ab50b0d936345', '61fc01dae0dc5662b76489a7', '62582a855988f159024b964c', '62a9f0c920413d2695d88712', '62a9f89a20413d2695d8871a']",B1058,active,5e9e28a7f3591817f23b2663
+5.0,12.0,1.0,1.0,12.0,12.0,"Landed on ASOG as of Oct 8, 2022.","['5eb87d4affd86e000604b38b', '5ef6a1e90059c33cee4a828a', '5ef6a2e70059c33cee4a8293', '5eb87d4fffd86e000604b393', '5ff6554f9257f579ee3a6c5f', '60428aafc041c16716f73cd7', '605b4b6aaa5433645e37d03f', '600f9b6d8f798e2a4d5f979f', '6161c94c6db1a92bfba85349', '61e048bbbe8d8b66799018d0', '61fc0224e0dc5662b76489ab', '6243ada6af52800c6e919253', '6278481757b51b752c5c5a5f']",B1060,active,5ef670f10059c33cee4a826c
+5.0,9.0,1.0,1.0,9.0,9.0,"Landed at OCISLY as of Aug 12, 2022.","['5eb87d4dffd86e000604b38e', '5fe3af58b3467846b324215f', '5fe3af6db3467846b3242160', '5fe3b11eb3467846b324216c', '6161c88d6db1a92bfba85348', '61e048ffbe8d8b66799018d1', '6243ad8baf52800c6e919252', '6243ae24af52800c6e919258', '62a9f08b20413d2695d88711', '62f3b4ff0f55c50e192a4e6b']",B1061,active,5f57c53d0622a6330279009f
+5.0,8.0,0.0,0.0,9.0,9.0,"Landed on ASOG as of Oct 20, 2022.","['5eb87d4cffd86e000604b38d', '5eb87d4effd86e000604b390', '607a37565a906a44023e0866', '61d5eca1f88e4c5fc91f1eb7', '61eefaa89eb1064137a1bd73', '62582a6f5988f159024b964b', '6243ae0aaf52800c6e919257', '62a9f12820413d2695d88716', '62f3b5200f55c50e192a4e6c']",B1062,active,5f57c5440622a633027900a0
+5.0,6.0,1.0,1.0,6.0,6.0,"Landed on OCISLY as of Oct 28, 2022","['5ed983aa1f30554030d45c31', '6079bd399a06446e8c61bf77', '5fe3b107b3467846b324216b', '61fc0203e0dc5662b76489a8', '6258290d5988f159024b9644', '62a9f0e320413d2695d88713', '62f3b53a0f55c50e192a4e6f']",B1063,active,5f57c54a0622a633027900a1
+5.0,0.0,0.0,0.0,0.0,0.0,"Landed at LZ-1 as of Nov 1, 2022.",[],B1064,active,5fe3b8f2b3467846b3242181
+5.0,0.0,0.0,0.0,0.0,0.0,"Landed at LZ-1 as of Nov 1, 2022.",[],B1065,active,5fe3b8fbb3467846b3242182
+5.0,0.0,0.0,0.0,0.0,0.0,Stage Expended,[],B1066,expended,5fe3b906b3467846b3242183
+5.0,5.0,0.0,0.0,6.0,6.0,"Landed on JRTI as of Nov 3, 2022","['5fe3af84b3467846b3242161', '5fe3b15eb3467846b324216d', '5fe3afc1b3467846b3242164', '6243ade2af52800c6e919255', '6243ae40af52800c6e919259', '63161329ffc78f3b8567070b']",B1067,active,60b800111f83cc1e59f16438
+5.0,1.0,0.0,0.0,2.0,2.0,"Landed on JRTI as of Oct 15, 2022","['6161d2006db1a92bfba85356', '62f3b5290f55c50e192a4e6d']",B1069,active,61c1ef45a4a2462678cbf45d
+5.0,0.0,0.0,0.0,0.0,0.0,,[],B1068,active,61c1ef4fa4a2462678cbf45e
+5.0,0.0,0.0,0.0,0.0,0.0,,[],B1070,active,61fae58d7aa67176fe3e0e1d
+5.0,3.0,3.0,3.0,1.0,1.0,"Landed at OCISLY as of Oct 22, 2022","['607a34e35a906a44023e085e', '6243adcaaf52800c6e919254', '5fe3af43b3467846b324215e', '62a9f10b20413d2695d88715']",B1071,active,61fae5947aa67176fe3e0e1e
+5.0,0.0,0.0,0.0,1.0,1.0,,['63161339ffc78f3b8567070c'],B1072,active,627843d657b51b752c5c5a53
+5.0,2.0,0.0,0.0,3.0,3.0,"Landed at ASOG as of Sep 25, 2022","['625828f25988f159024b9643', '6243aea5af52800c6e91925c', '62a9f8b320413d2695d8871b']",B1073,active,627843db57b51b752c5c5a54
+5.0,0.0,0.0,0.0,0.0,0.0,,[],B1074,active,627843de57b51b752c5c5a55
+5.0,0.0,0.0,0.0,0.0,0.0,,[],B1075,active,627843e257b51b752c5c5a56
+5.0,0.0,0.0,0.0,0.0,0.0,"Landed on JRTI as of Nov 26, 2022",[],B1076,active,633d9da235a71d1d9c66797a
+5.0,0.0,0.0,0.0,1.0,1.0,"Landed on JRTI as of Oct 5, 2022",['62dd70d5202306255024d139'],B1077,active,633d9da635a71d1d9c66797b
